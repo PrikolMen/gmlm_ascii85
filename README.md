@@ -1,5 +1,5 @@
 # gmlm_ascii85
- Ascii 85 Encoding in Pure Lua
+ Ascii 85 Encoding in Pure Lua for glua
 
 ## Example:
 ```lua
@@ -15,3 +15,5 @@
  ```
  <~:i^8cDer-ZDE9@Y~>	PrikolMen:-b
  ```
+
+Original Version: [SatheeshJM/Ascii85-Encoding-in-Pure-Lua](https://github.com/SatheeshJM/Ascii85-Encoding-in-Pure-Lua)
